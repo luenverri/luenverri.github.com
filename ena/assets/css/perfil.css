@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    width: 950px;
+}
+.contect{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.title{
+    width: 700px;
+    height: 45px;
+    border: solid 2px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif
+
+}
+
+.contect1{
+    width: 100%;
+    height: 180px;
+    display: flex;
+
+}
+.contect2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.menu{
+    display: inline-block;
+
+
+}
+.section1{
+    text-align: center;
+    border: solid 2px;
+    width: 950px;
+    position: relative;
+}
+.section{
+    width: 100%;
+
+
+}
+
+.buton{
+    border: solid 2px;
+    width: 150px;
+    height: 35px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buton:hover{
+    color: #ffa459;
+}
+
+.ali{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+}
+.ali2{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+
+}
+.parrafo{
+    display: inline-block;
+    width: 800px;
+    margin-left: auto;
+    font-family: 'Montserrat', sans-serif;
+
+
+
+}
+.social{
+    display: inline-block;
+    width: 100px;
+    height: 100%;
+    text-align: left;
+}
+.social1{
+    margin-top: 100%;
+    background-color: rgb(175, 36, 36);
+    width: 60px;
+    border-radius: 15px;
+    height: auto;
+
+}
+
+.diseño{
+    margin-bottom: 2em;
+    text-align: left;
+    margin-left: 50px;
+
+}
+.parrafo1{
+    text-align: justify;
+    margin: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+td{
+    border: solid 1px;
+    padding: 0;
+    width: 50%;
+}
+table{
+    width: 750px;
+    height: 150px;
+}
+p{
+    text-align: left;
+    font-size: 24px;
+}
+li{
+    text-align: left;
+
+}
+
+.lista{
+    margin-left: 75px;
+}
+
+.lista1{
+    text-align: left;
+    padding: 10px;
+    margin-left: 20px;
+}
